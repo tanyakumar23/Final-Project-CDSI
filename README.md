@@ -10,8 +10,9 @@ This folder has the script files that involve my experiments.
 6. Figure 10: lfp_spectrogram.py
 
 # Output:
-This folder has the output files along with figures from the experiments above with the detailed results.
+This folder has the output files from the experiments above with the detailed results.
 # Please note: 
-1. Figure 5 depends on Figure 6, as such the code needs to be run in order.
+1. Data : https://dandiarchive.org/dandiset/000623 
+2. permutation_test.py depends on event_boundary_analysis.py, as such the code needs to be run in order.
 
 
