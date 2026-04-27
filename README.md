@@ -14,5 +14,6 @@ This folder has the output files from the experiments above with the detailed re
 # Please note: 
 1. Data : https://dandiarchive.org/dandiset/000623 
 2. permutation_test.py depends on event_boundary_analysis.py, as such the code needs to be run in order.
+3. Please change to your local path in config.py before running.
 
 
